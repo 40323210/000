@@ -50,31 +50,6 @@
 <v t="leo.20151228210416.1"><vh>@edit 2015cphww14.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
-<v t="amd.20150913233943.2" a="E"><vh>html</vh>
-<v t="amd.20150913233943.3" a="E"><vh>head</vh>
-<v t="amd.20150913233943.4"><vh>title</vh></v>
-</v>
-<v t="amd.20150913233943.5" a="E"><vh>body</vh>
-<v t="amd.20150913233943.6" a="E"><vh>div</vh>
-<v t="amd.20150913233943.7" a="E"><vh>div</vh>
-<v t="amd.20150913234947.1"><vh>title page</vh>
-<v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
-</v>
-<v t="amd.20150913235034.1"><vh>本日要點</vh></v>
-<v t="amd.20150914000138.1"><vh>Anaconda Python</vh></v>
-<v t="amd.20150914000332.1" a="E"><vh>設計的表達方式</vh>
-<v t="amd.20150914000332.2"><vh>協同模式下的網際雲端內容呈現</vh></v>
-</v>
-<v t="amd.20150913235123.1"><vh>結論</vh></v>
-</v>
-</v>
-<v t="amd.20150913233943.81"><vh>script</vh></v>
-<v t="amd.20150913233943.82"><vh>script</vh></v>
-<v t="amd.20150913233943.83"><vh>script</vh></v>
-</v>
-</v>
-</v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
@@ -275,6 +250,31 @@
 </v>
 </v>
 </v>
+<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
+<v t="amd.20150913233943.2" a="E"><vh>html</vh>
+<v t="amd.20150913233943.3" a="E"><vh>head</vh>
+<v t="amd.20150913233943.4"><vh>title</vh></v>
+</v>
+<v t="amd.20150913233943.5" a="E"><vh>body</vh>
+<v t="amd.20150913233943.6" a="E"><vh>div</vh>
+<v t="amd.20150913233943.7" a="E"><vh>div</vh>
+<v t="amd.20150913234947.1"><vh>title page</vh>
+<v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
+</v>
+<v t="amd.20150913235034.1"><vh>本日要點</vh></v>
+<v t="amd.20150914000138.1"><vh>Anaconda Python</vh></v>
+<v t="amd.20150914000332.1" a="E"><vh>設計的表達方式</vh>
+<v t="amd.20150914000332.2"><vh>協同模式下的網際雲端內容呈現</vh></v>
+</v>
+<v t="amd.20150913235123.1"><vh>結論</vh></v>
+</v>
+</v>
+<v t="amd.20150913233943.81"><vh>script</vh></v>
+<v t="amd.20150913233943.82"><vh>script</vh></v>
+<v t="amd.20150913233943.83"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
@@ -368,7 +368,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228220939.1"><vh>@clean simplest5.html</vh>
+<v t="leo.20151228220939.1" a="E"><vh>@clean simplest5.html</vh>
 <v t="leo.20151228220939.2"><vh>@clean simplest5.html</vh>
 <v t="leo.20151228220939.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228220939.4" a="E"><vh>html 標註</vh>
