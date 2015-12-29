@@ -275,7 +275,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151012113354.1" a="E"><vh>@clean simplest.html</vh>
+<v t="leo.20151012113354.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151012113354.2"><vh>檔案說明</vh></v>
 <v t="leo.20151012113354.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151012113354.4" a="E"><vh>body 標註</vh>
@@ -290,7 +290,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -2412,8 +2412,7 @@ g.es("pelican 執行完畢")</t>
 <t tx="ibm.20150918175403.1">@language xml
 @tabwidth -4
 @others
-n??????????????????????o
-進了幫我出來</t>
+</t>
 <t tx="ibm.20150918175403.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
