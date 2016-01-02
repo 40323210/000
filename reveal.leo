@@ -518,7 +518,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151228220958.1"><vh>@clean simplest11.html</vh>
+<v t="leo.20151228220958.1" a="E"><vh>@clean simplest11.html</vh>
 <v t="leo.20151228220958.2"><vh>@clean simplest11.html</vh>
 <v t="leo.20151228220958.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228220958.4" a="E"><vh>html 標註</vh>
@@ -539,16 +539,22 @@
 <v t="leo.20151228220958.14" a="E"><vh>body 標註</vh>
 <v t="leo.20151228220958.15" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228220958.16" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228220958.17"><vh>有關我的作業</vh></v>
-<v t="leo.20151228220958.18"><vh>作業任務九</vh></v>
-<v t="leo.20151228220958.19"><vh>第3張投影片</vh></v>
+<v t="leo.20151228220958.17" a="E"><vh>有關我的作業</vh>
+<v t="123.20160102162312.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228220958.18" a="E"><vh>作業任務九</vh>
+<v t="123.20160102162312.1"></v>
+</v>
+<v t="leo.20151228220958.19" a="E"><vh>第3張投影片</vh>
+<v t="123.20160102162312.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228220958.20"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151228220959.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20151228220959.1" a="E"><vh>@clean simplest12.html</vh>
 <v t="leo.20151228220959.2"><vh>@clean simplest12.html</vh>
 <v t="leo.20151228220959.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228220959.4" a="E"><vh>html 標註</vh>
@@ -569,16 +575,22 @@
 <v t="leo.20151228220959.14" a="E"><vh>body 標註</vh>
 <v t="leo.20151228220959.15" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228220959.16" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228220959.17"><vh>有關我的作業</vh></v>
-<v t="leo.20151228220959.18"><vh>作業任務十</vh></v>
-<v t="leo.20151228220959.19"><vh>第3張投影片</vh></v>
+<v t="leo.20151228220959.17" a="E"><vh>有關我的作業</vh>
+<v t="123.20160102162328.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228220959.18" a="E"><vh>作業任務十</vh>
+<v t="123.20160102162328.1"></v>
+</v>
+<v t="leo.20151228220959.19" a="E"><vh>第3張投影片</vh>
+<v t="123.20160102162328.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228220959.20"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151228221226.1"><vh>@clean simplest13.html</vh>
+<v t="leo.20151228221226.1" a="E"><vh>@clean simplest13.html</vh>
 <v t="leo.20151228221226.2"><vh>@clean simplest13.html</vh>
 <v t="leo.20151228221226.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228221226.4" a="E"><vh>html 標註</vh>
@@ -599,16 +611,22 @@
 <v t="leo.20151228221226.14" a="E"><vh>body 標註</vh>
 <v t="leo.20151228221226.15" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228221226.16" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228221226.17"><vh>有關我的作業</vh></v>
-<v t="leo.20151228221226.18"><vh>作業任務十一</vh></v>
-<v t="leo.20151228221226.19"><vh>第3張投影片</vh></v>
+<v t="leo.20151228221226.17" a="E"><vh>有關我的作業</vh>
+<v t="123.20160102162337.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228221226.18" a="E"><vh>作業任務十一</vh>
+<v t="123.20160102162337.1"></v>
+</v>
+<v t="leo.20151228221226.19" a="E"><vh>第3張投影片</vh>
+<v t="123.20160102162337.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228221226.20"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151228221227.1"><vh>@clean simplest14.html</vh>
+<v t="leo.20151228221227.1" a="E"><vh>@clean simplest14.html</vh>
 <v t="leo.20151228221227.2"><vh>@clean simplest14.html</vh>
 <v t="leo.20151228221227.3"><vh>檔案說明</vh></v>
 <v t="leo.20151228221227.4" a="E"><vh>html 標註</vh>
@@ -629,9 +647,15 @@
 <v t="leo.20151228221227.14" a="E"><vh>body 標註</vh>
 <v t="leo.20151228221227.15" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151228221227.16" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151228221227.17"><vh>有關我的作業</vh></v>
-<v t="leo.20151228221227.18"><vh>作業任務十二</vh></v>
-<v t="leo.20151228221227.19"><vh>第3張投影片</vh></v>
+<v t="leo.20151228221227.17" a="E"><vh>有關我的作業</vh>
+<v t="123.20160102162252.1"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20151228221227.18" a="E"><vh>作業任務十二</vh>
+<v t="123.20160102162252.1"></v>
+</v>
+<v t="leo.20151228221227.19" a="E"><vh>第3張投影片</vh>
+<v t="123.20160102162252.1"></v>
+</v>
 </v>
 </v>
 <v t="leo.20151228221227.20"><vh>script</vh></v>
@@ -832,6 +856,26 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="123.20160102162252.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323210"; }&lt;/style&gt;</t>
+<t tx="123.20160102162312.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323210"; }&lt;/style&gt;</t>
+<t tx="123.20160102162328.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323210"; }&lt;/style&gt;</t>
+<t tx="123.20160102162337.1">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323210"; }&lt;/style&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -3581,6 +3625,9 @@ g.es("pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228220958.15">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -3593,20 +3640,20 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151228220958.17">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323210  古丙駿  2015/12/06&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151228220958.18">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151228220958.18">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;作業任務九&lt;/h2&gt;
     &lt;p&gt;&lt;/p&gt;
     &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151228220958.19">&lt;section&gt;
+<t tx="leo.20151228220958.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
     &lt;p&gt;這一周太混了都不太知道自己在幹嗎，老師說的也有聽沒有懂。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
@@ -3725,6 +3772,9 @@ g.es("pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228220959.15">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -3737,20 +3787,20 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151228220959.17">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323210  古丙駿  2015/11/07&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151228220959.18">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151228220959.18">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;作業任務十&lt;/h2&gt;
     &lt;p&gt;fix檔的學習&lt;/p&gt;
     &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151228220959.19">&lt;section&gt;
+<t tx="leo.20151228220959.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
     &lt;p&gt;這禮拜修改了fix檔內路徑，對於這個概念越來越清楚了。&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
@@ -3869,6 +3919,9 @@ g.es("pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228221226.15">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -3881,20 +3934,20 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151228221226.17">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323210  古丙駿  2015/11/07&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151228221226.18">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151228221226.18">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;作業任務十一&lt;/h2&gt;
     &lt;p&gt;&lt;/p&gt;
     &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151228221226.19">&lt;section&gt;
+<t tx="leo.20151228221226.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
     &lt;p&gt;&lt;/p&gt;
     &lt;p&gt;這星期學習怎麼將自己的東西連結到內部投影片，覺得很難但是在同學的教導下瞭解了更多。&lt;a href="#/hw-task-one"&gt;作業任務四&lt;/a&gt;
@@ -4013,6 +4066,9 @@ g.es("pelican 執行完畢")</t>
 &lt;/body&gt;
 </t>
 <t tx="leo.20151228221227.15">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -4025,20 +4081,20 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151228221227.17">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
+&lt;&lt; header &gt;&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323210  古丙駿  2015/11/07&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151228221227.18">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151228221227.18">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;作業任務十二&lt;/h2&gt;
     &lt;p&gt;onshape的學習&lt;/p&gt;
     &lt;p&gt; &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151228221227.19">&lt;section&gt;
+<t tx="leo.20151228221227.19">&lt;&lt; header &gt;&gt;
     &lt;h2&gt;70&lt;/h2&gt;
     &lt;p&gt;onshape可以在網路上直接繪圖，雖然功能還很洋春，但能夠直接轉成很多檔案。&lt;/p&gt;
     
